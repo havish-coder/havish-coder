@@ -12,10 +12,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Science student with a love for building things from scratch
-- 🏆 Passionate about **Competitive Programming** — enjoy breaking down hard problems
+- 🎓 Electrical Engineer student with a love for building things from scratch
+- 🏆 Passionate about **Competitive Programming** — enjoy breaking down hard problems and solve it for fun
 - 🤖 Built real-world **AI/ML projects** including video synthesis and NLP-based tweet analysis
-- 🥇 **Inter IIT Tech Meet** participant — tackled Adobe's problem statement under competition pressure
 - 🌱 Constantly exploring new technologies and pushing the boundaries of what I can build
 - 💼 **Open to internships and entry-level opportunities** in Software Engineering / ML
 
@@ -69,29 +68,9 @@
 
 ## 🏆 Competitive Programming
 
-- ⚡ Active on **Codeforces** · **LeetCode** · **CodeChef**
+- ⚡ Active on **Codeforces** · **LeetCode** 
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🎯 Love solving problems under pressure — CP sharpens the way I think about code
-
-> 📌 *Replace this section with your actual handles/ratings once you have them — it builds instant credibility with recruiters.*
-
----
-
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
 
 ---
 
