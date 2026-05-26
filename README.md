@@ -14,7 +14,7 @@
 
 - 🎓 Electrical Engineer student with a love for building things from scratch
 - 🏆 Passionate about **Competitive Programming** — enjoy breaking down hard problems and solve it for fun
-- 🤖 Built real-world **AI/ML projects** including video synthesis and NLP-based tweet analysis
+- 🤖 Built some basic real-world **AI/ML projects** including video synthesis and NLP-based tweet analysis
 - 🌱 Constantly exploring new technologies and pushing the boundaries of what I can build
 - 💼 **Open to internships and entry-level opportunities** in Software Engineering / ML
 
