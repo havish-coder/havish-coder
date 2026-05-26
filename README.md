@@ -49,7 +49,7 @@
 |---------|-------------|-------|
 | [**Talking Heads**](https://github.com/havish-coder/Talking_heads) | Generates a talking-head video from a still image + audio — bringing faces to life with AI | Python, CV, AI |
 | [**Tweet Analyzer**](https://github.com/havish-coder/Tweet_analyzer) | NLP pipeline that predicts tweet likes and engagement using ML models | Python, NLP, ML |
-| [**InterIIT Adobe PS**](https://github.com/havish-coder/InterIIT_Adobe_ps) | Competitive submission for Adobe's real-world problem statement at Inter IIT Tech Meet | Python |
+
 
 ---
 
