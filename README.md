@@ -9,7 +9,7 @@
 
 ### 🧸 About Me
 
-- 🎓 I'm a student learning to become a developer
+- 🎓 I'm a student from IIT Inodre(EE department) learning to become a developer
 - 🌱 Currently learning **DSA & problem solving**, **Python projects**, **Java / C++ fundamentals**, and **Web development**
 - 💻 I love turning ideas into small projects and growing one commit at a time
 - 💼 **Open to opportunities** — internships, collaborations, and entry-level roles
